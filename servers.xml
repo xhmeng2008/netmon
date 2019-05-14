@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+<server url="http://gzspeedtest.com/speedtest/upload.php" lat="23.1333" lon="113.2667" name="Guangzhou" country="CN" cc="CN" sponsor="ChinaTelecom-GZ" id="17251"  host="gzspeedtest.com:8080" />
+<server url="http://speedtest3.gd.chinamobile.com:8080/speedtest/upload.php" lat="22.5333" lon="114.1333" name="Shenzhen" country="China" cc="CN" sponsor="China Mobile,Guangdong" id="4515"  url2="http://speedtestsz2.gd.chinamobile.com/speedtest/upload.php" host="speedtest3.gd.chinamobile.com:8080" />
+<server url="http://139.199.66.249/speedtest/upload.php" lat="22.5333" lon="114.1333" name="WanTong" country="China" cc="CN" sponsor="Wantong,Guangdong" id="4515" host="139.199.66.249" />
+<servers><server url="http://speedtest4.xj.chinamobile.com:8080/speedtest/upload.php" lat="81.3241" lon="43.9168" name="Yili" country="China" cc="CN" sponsor="China Mobile Group XinJiang" id="17228"  host="speedtest4.xj.chinamobile.com:8080" />
+</servers>
+</settings>
