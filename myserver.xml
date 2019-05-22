@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+<servers>
+<server url="http://139.199.66.249/speedtest/upload.php" lat="23.13" lon="113.26" name="暨南大学" country="CN" cc="CN" sponsor="暨南大学" id="1"  host="139.199.66.249" />
+<server url="http://gzspeedtest.com/speedtest/upload.php" lat="23.1333" lon="113.2667" name="Guangzhou" country="CN" cc="CN" sponsor="ChinaTelecom-GZ" id="17251"  host="gzspeedtest.com:8080" />
+<server url="http://speedtest3.gd.chinamobile.com:8080/speedtest/upload.php" lat="22.5333" lon="114.1333" name="Shenzhen" country="China" cc="CN" sponsor="China Mobile,Guangdong" id="4515"  url2="http://speedtestsz2.gd.chinamobile.com/speedtest/upload.php" host="speedtest3.gd.chinamobile.com:8080" />
+<server url="http://speedtest1.gx.chinamobile.com:8080/speedtest/upload.php" lat="22.8167" lon="108.3167" name="Nanning" country="China" cc="CN" sponsor="GX ChinaMobile" id="15863"  host="speedtest1.gx.chinamobile.com:8080" />
+<server url="http://swxwyzx.f3322.net:8080/speedtest/upload.php" lat="28.6833" lon="115.8833" name="Nanchang" country="China" cc="CN" sponsor="CHINATelecom.JX" id="16399"  host="swxwyzx.f3322.net:8080" />
+<server url="http://speedtest1.fj.chinamobile.com/speedtest/upload.aspx" lat="26.0761" lon="119.3064" name="Fuzhou" country="China" cc="CN" sponsor="Fuzhou China Mobile,Fujian" id="16171"  host="speedtest1.fj.chinamobile.com:8080" />
+<server url="http://vipspeedtest4.wuhan.net.cn:8080/speedtest/upload.php" lat="30.5833" lon="114.2833" name="Wuhan" country="China" cc="CN" sponsor="China Telecom Wuhan Branch-2" id="24011"  host="vipspeedtest4.wuhan.net.cn:8080" />
+<server url="http://vipspeedtest1.wuhan.net.cn:8080/speedtest/upload.php" lat="30.5833" lon="114.2833" name="Wuhan" country="China" cc="CN" sponsor="China Telecom Wuhan Branch" id="23844"  host="vipspeedtest1.wuhan.net.cn:8080" />
+<server url="http://113.57.249.2:8080/speedtest/upload.php" lat="30.5833" lon="114.2833" name="Wuhan" country="China" cc="CN" sponsor="China Unicom,Hubei Branch" id="5485"  url2="http://hbcu.f3322.org/speedtest/upload.php" host="113.57.249.2:8080" />
+<server url="http://speedtest2.cq.chinamobile.com/speedtest/upload.aspx" lat="29.5583" lon="106.5667" name="Chongqing" country="CN" cc="CN" sponsor="Chongqing Mobile Company" id="17584"  host="speedtest2.cq.chinamobile.com:8080" />
+<server url="http://speed.cqtelecom.com.cn:8080/speedtest/upload.php" lat="29.5583" lon="106.5667" name="ChongQing" country="China" cc="CN" sponsor="China Telecom" id="19076"  host="speed.cqtelecom.com.cn:8080" />
+<server url="http://speedtest.cqwin.com:8080/speedtest/upload.php" lat="29.5583" lon="106.5667" name="Chongqing" country="China" cc="CH" sponsor="China Unicom Chong Qing Branch" id="5726"  url2="http://123.147.246.250/speedtest/upload.php" host="speedtest.cqwin.com:8080" />
+<server url="http://speedtest1.cqccn.com:8080/speedtest/upload.php" lat="29.5583" lon="106.5667" name="Chongqing" country="China" cc="CN" sponsor="CCN" id="5530"  host="speedtest1.cqccn.com:8080" />
+</servers>
+</settings>
