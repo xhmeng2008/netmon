@@ -2,6 +2,7 @@
 <settings>
 <servers>
 <server url="http://139.199.66.249/speedtest/upload.php" lat="23.1333" lon="113.2667" name="Jinan" country="CN" cc="CN" sponsor="JNU" id="1"  host="139.199.66.249" />
+<server url="http://39.98.184.83:8080/speedtest/upload.jsp" lat="23.1333" lon="113.2667" name="WanTong" country="CN" cc="CN" sponsor="Wantong" id="2"  host="39.98.184.83:8080" />
 <server url="http://gzspeedtest.com/speedtest/upload.php" lat="23.13" lon="113.26" name="Guangzhou" country="CN" cc="CN" sponsor="ChinaTelecom-GZ" id="17251"  host="gzspeedtest.com:8080" />
 <server url="http://speedtest3.gd.chinamobile.com:8080/speedtest/upload.php" lat="22.5333" lon="114.1333" name="Shenzhen" country="China" cc="CN" sponsor="China Mobile,Guangdong" id="4515"  url2="http://speedtestsz2.gd.chinamobile.com/speedtest/upload.php" host="speedtest3.gd.chinamobile.com:8080" />
 <server url="http://speedtest1.gx.chinamobile.com:8080/speedtest/upload.php" lat="22.8167" lon="108.3167" name="Nanning" country="China" cc="CN" sponsor="GX ChinaMobile" id="15863"  host="speedtest1.gx.chinamobile.com:8080" />
