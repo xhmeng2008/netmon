@@ -1,0 +1,6 @@
+import os
+import json
+
+result = json.loads(open("r").read())['up']
+print result
+
