@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+<servers>
+<server url="http://mygod998.vicp.net:8080/speedtest/upload.php" lat="28.1961" lon="112.9722" name="Changsha" country="China" cc="CN" sponsor="湖南电信5G" id="28225" host="mygod998.vicp.net:8080"/>
+<server url="http://speedtestbb.hk.chinamobile.com:8080/speedtest/upload.php" lat="22.3119" lon="114.2569" name="Tseung Kwan O" country="Hong Kong" cc="HK" sponsor="China Mobile Hong Kong Boardband" id="37639" host="speedtestbb.hk.chinamobile.com:8080"/>
+</servers>
+</settings>
